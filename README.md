@@ -2,7 +2,7 @@
 
 I'm Chuck! I am a product manager on the Firefox team. My portfolio currently includes [Firefox Search](https://wiki.mozilla.org/Firefox/Search) and [Sherwood](https://wiki.mozilla.org/Sherwood), and I also contribute to [Pioneer](https://support.mozilla.org/kb/about-firefox-pioneer).  Previously, I was an engineer on the [Test Pilot](https://testpilot.firefox.com) and [Marketplace](https://wiki.mozilla.org/Marketplace) teams. Before Mozilla, I was an engineer at [Fight for the Future](https://www.fightforthefuture.org/) and technical lead at [Threespot](https://www.threespot.com/).
 
-Outside of work: I have many nerd (I help run a Magic: The Gathering hobby site), an avid outdoorsman (I teach technical rock climbing and mountaineering classes for the [Colorado Mountain Club](https://www.cmc.org/)), and a food and beverage enthusiast (I have a taco + cocktail blog with my partner). I spend an inordinate amount of time in coffee shops, fueling up on caffeine and soaking in the unique culture that they exude. I live for that terribly uncomfortable feeling in your gut when you're in a new place doing new things, either alone or surrounded by people not like you.
+Outside of work: I have many nerdy pursuits (I help run a Magic: The Gathering hobby site), an avid outdoorsman (I teach technical rock climbing and mountaineering classes for the [Colorado Mountain Club](https://www.cmc.org/)), and a food and beverage enthusiast (I have a taco + cocktail blog with my partner). I spend an inordinate amount of time in coffee shops, fueling up on caffeine and soaking in the unique culture that they exude. I live for that terribly uncomfortable feeling in your gut when you're in a new place doing new things, either alone or surrounded by people not like you.
 
 This document is intended to be an earnest guide to working with me. Writing it has helped me identify and refine my values and working style, and will hopefully also help us have a great relationship. I would like it to both set my expectations for you and provide a baseline for your expectations of me. It's a [living document](https://github.com/chuckharmston/README/blob/master/README.md) with a [public history](https://github.com/chuckharmston/README/commits/master/README.md), and I will periodically update it as necessary or requested.
 
@@ -78,7 +78,7 @@ I like meetings (or at least, well-run ones) and relish the opportunity to colla
 
 #### 1:1s
 
-I would be happy to hold regular 1:1 meetings with you. I’m here to support you and your growth, so I prefer that you let me know how best I can do that. Thus, I prefer that you schedule them, set the agenda, and define the format. I will maintain a shared document that we can use both to plan future conversations and reflect upon past ones.
+I would be happy to hold regular 1:1 meetings with you. I’m here to support you and your growth, and would love to hear how best I can do that. Thus, I prefer that you schedule them and define the format. I will maintain a shared document that we can use both to plan future conversations and reflect upon past ones.
 
 Some characteristics of a good 1:1:
 
@@ -89,16 +89,4 @@ Some characteristics of a good 1:1:
 
 ### Work and life
 
-I want to empower you to have a healthy relationship with your job. Sometimes I work on evenings and weekends; I like the freedom and lack of structure that it allows, and frequently use them for focused work or reflection time. This is my choice. Do not take that as implied pressure to follow suit; even if I email or Slack something to you, it can always wait until the next time you're ready to work.
-
-## Miscellany
-
-Some unorganized information that may help you work with me:
-
-- I am extroverted and enthusiastic. This can be a strength, but is sometimes unwanted. I'm very open to being told to tone it down.
-- Opinions and intuition are useful, so long as they're treated as what they are. If you want to persuade me, use facts.
-- I bias toward transparency, but I work on some sensitive stuff that I may not always be at liberty to discuss. I will be clear when that is the case, and am committed to never lying.
-- I am averse to [bike-shedding](https://en.wikipedia.org/wiki/Law_of_triviality), and will try to refocus meetings that devolve into it.
-- I am a former engineer. It helps me appreciate engineering concerns, but also creates some weaknesses that I try to be aware of.
-- I've written a great detail about how I prefer to work and what I value, but part of my job is adapting to what my teams need. I look forward to hearing about them!
-- I would be very grateful to hear what you think this document is missing.
+I want you to have a healthy relationship with your job. Sometimes I work on evenings and weekends; I like the freedom and lack of structure that it allows, and frequently use them for focused work or reflection time. This is my choice. Do not take that as implied pressure to follow suit; even if I email or Slack something to you, it can always wait until the next time you're ready to work.
