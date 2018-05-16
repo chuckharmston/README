@@ -11,15 +11,15 @@ This document is intended to be an earnest guide to working with me. Writing it 
 What do product managers do? That's a good, important question with no simple answer. Some of the responsibilities, as described by others:
 
 - Be [an umbrella (of sorts)](https://techcrunch.com/2010/03/14/key-to-gmail/) for my teams: keep them dry when it's raining, but get out of the way when sunny.
-- Be a [T-shaped](https://medium.com/pminsider/the-t-shaped-product-manager-c3e4587e5b84) [generalist](https://www.mindtheproduct.com/2017/12/product-managers-generalists/), with a broad understanding of products and product management principles, with deep expertise on their product areas.
+- Be a [T-shaped](https://medium.com/pminsider/the-t-shaped-product-manager-c3e4587e5b84) [generalist](https://www.mindtheproduct.com/2017/12/product-managers-generalists/), with a broad understanding of products and product management principles and deep expertise on their product areas.
 - Be [an advocate for the user](http://www.cleverpm.com/2017/07/26/the-many-hats-of-the-product-manager/).
 - [Be accountable for the decisions my teams make](https://github.com/molly/manager-README), even if I’m not  the one making them.
 
 I strive for all of that, but I ultimately see my job as doing what is required to set my teams up for success. Some ways this may happen:
 
 - By providing an appropriate amount of context to help my team understand how and why decisions are being made. This should empower them to figure out what to do, how they think it should be done, and to ultimately get it done.
-- By establishing a corpus of knowledge to inform our collectively-held believes about our product and how users interact with it.
-- By aligning our collective efforts, connecting the dots between what our company needs, what our users need, and what individual team members need.
+- By establishing a corpus of research to inform our product vision and understanding of users interact with it.
+- By balancing what our company needs, what our users need, and what individual team members need.
 - By ensuring that my teams get what they need from others, and that other teams get what they need from mine.
 - By making sure they are successful and happy. I want them to grow their career, enjoy their work, and believe in our shared mission.
 
@@ -31,7 +31,7 @@ I do _not_ intend to tell my teams what to do or how they should do it.
 
 **I assume positive intent.** As colleagues we are on the same team, fighting for positive outcomes together. Disagreement on those outcomes or the means to achieve them are natural, and I do my best to assume those disagreements to be made in good faith.
 
-**Diversity and inclusion are important to me.** In addition to being a deeply-held personal value, I believe that diverse perspectives are an import aspect of an effective team. I do my best to embrace different viewpoints, backgrounds, and personal characteristics, and want humans of all types to feel welcome, valued, and safe to express their viewpoint.
+**Diversity and inclusion are important to me.** In addition to being a deeply-held personal value, I believe that diverse perspectives are a critical aspect of an effective team. I do my best to embrace different viewpoints, backgrounds, and personal characteristics, and want humans of all types to feel welcome, valued, and safe to express their viewpoint.
 
 **I try to practice a [growth mindset](https://www.brainpickings.org/2014/01/29/carol-dweck-mindset/).** I never want to assume that I know everything, and always want to be open to having my assumptions or beliefs challenged.
 
@@ -39,7 +39,7 @@ I make decisions **supported by data**. I believe in my intuition and use it as 
 
 ## How I like to work
 
-I am located in Denver, Colorado, US (in the [Mountain Time Zone](https://time.is/Denver)), though am a morning person and tend to work between 7:00 AM and 4:00 PM local time. I keep my calendar up to date ([you can view availability and book meetings here](https://calendly.com/chuckharmston)), but am happy to take meetings outside of those hours, especially to accommodate time zone conflicts. I have blocked off 11:00-3:00 Pacific on Tuesdays and Fridays as dedicated work time, but there's no need to treat that time as sacred; please feel free to schedule during it if other options are not tenable.
+I am located in Denver, Colorado, US (in the [Mountain Time Zone](https://time.is/Denver)), though am a morning person and tend to work between 7:00 AM and 4:00 PM local time. I keep my calendar up to date ([you can view availability and book meetings here](https://calendly.com/chuckharmston)), but am happy to take meetings outside of those hours, especially to accommodate time zone conflicts. In my calendar I have block 11:00-3:00 Pacific on Tuesdays and Fridays as work time, but feel free to schedule during it if other options are not tenable.
 
 If you want or need to speak with me and my schedule is _not_ open, get in touch and I’ll make sure we talk that day.
 
@@ -89,4 +89,4 @@ Some characteristics of a good 1:1:
 
 ### Work and life
 
-I want you to have a healthy relationship with your job. Sometimes I work on evenings and weekends; I like the freedom and lack of structure that it allows, and frequently use them for focused work or reflection time. This is my choice. Do not take that as implied pressure to follow suit; even if I email or Slack something to you, it can always wait until the next time you're ready to work.
+I want you to have a healthy relationship with your job. Sometimes I work on evenings and weekends; I like the freedom and lack of structure that it allows, and frequently use them for focused work or reflection time. This is my choice. Do not take that as implied pressure to follow suit; if I ask a question outside of normal working hours, it can always wait until the next time you're ready to work.
