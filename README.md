@@ -2,7 +2,13 @@
 
 I'm Chuck! I am a product manager on the Firefox team. My portfolio currently includes [Firefox Search](https://wiki.mozilla.org/Firefox/Search) and [Sherwood](https://wiki.mozilla.org/Sherwood), and I also contribute to [Pioneer](https://support.mozilla.org/kb/about-firefox-pioneer).  Previously, I was an engineer on the [Test Pilot](https://testpilot.firefox.com) and [Marketplace](https://wiki.mozilla.org/Marketplace) teams. Before Mozilla, I was an engineer at [Fight for the Future](https://www.fightforthefuture.org/) and technical lead at [Threespot](https://www.threespot.com/).
 
-Outside of work: I have many nerdy pursuits (I help run a Magic: The Gathering hobby site), an avid outdoorsman (I teach technical rock climbing and mountaineering classes for the [Colorado Mountain Club](https://www.cmc.org/)), and a food and beverage enthusiast (I have a taco + cocktail blog with my partner). I spend an inordinate amount of time in coffee shops, fueling up on caffeine and soaking in the unique culture that they exude. I live for that terribly uncomfortable feeling in your gut when you're in a new place doing new things, either alone or surrounded by people not like you.
+Outside of work:
+
+- I have many nerdy pursuits, and help run a Magic: The Gathering hobby site.
+- I'm an avid outdoorsman and teach technical rock climbing and mountaineering classes for the [Colorado Mountain Club](https://www.cmc.org/),
+- I'm food and beverage enthusiast, and have a taco + cocktail blog with my partner.
+
+I spend an inordinate amount of time in coffee shops, fueling up on caffeine and soaking in the unique culture that they exude. I live for that terribly uncomfortable feeling in your gut when you're in a new place doing new things, either alone or surrounded by people not like you.
 
 This document is intended to be an earnest guide to working with me. Writing it has helped me identify and refine my values and working style, and will hopefully also help us have a great relationship. I would like it to both set my expectations for you and provide a baseline for your expectations of me. It's a [living document](https://github.com/chuckharmston/README/blob/master/README.md) with a [public history](https://github.com/chuckharmston/README/commits/master/README.md), and I will periodically update it as necessary or requested.
 
@@ -23,8 +29,6 @@ I strive for all of that, but I ultimately see my job as doing what is required 
 - By ensuring that my teams get what they need from others, and that other teams get what they need from mine.
 - By making sure they are successful and happy. I want them to grow their career, enjoy their work, and believe in our shared mission.
 
-I do _not_ intend to tell my teams what to do or how they should do it.
-
 ## My guiding principles
 
 **I am mission-driven.**  I'm at Mozilla for a reason: I believe in us, [our principles](https://www.mozilla.org/about/manifesto/), and our products. I'm constantly working to align my own work with our collective mission, and would appreciate your help holding myself accountable to it.
@@ -39,9 +43,7 @@ I make decisions **supported by data**. I believe in my intuition and use it as 
 
 ## How I like to work
 
-I am located in Denver, Colorado, US (in the [Mountain Time Zone](https://time.is/Denver)), though am a morning person and tend to work between 7:00 AM and 4:00 PM local time. I keep my calendar up to date ([you can view availability and book meetings here](https://calendly.com/chuckharmston)), but am happy to take meetings outside of those hours, especially to accommodate time zone conflicts. In my calendar I have block 11:00-3:00 Pacific on Tuesdays and Fridays as work time, but feel free to schedule during it if other options are not tenable.
-
-If you want or need to speak with me and my schedule is _not_ open, get in touch and I’ll make sure we talk that day.
+I am located in Denver, Colorado, US (in the [Mountain Time Zone](https://time.is/Denver)), though am a morning person and tend to work between 7:00 AM and 4:00 PM local time. I keep my calendar up to date ([you can view availability and book meetings here](https://calendly.com/chuckharmston)), but am happy to take meetings outside of those hours, especially to accommodate time zone conflicts. If you want or need to speak with me and my schedule is _not_ open, get in touch and I’ll make sure we talk that day.
 
 ### Directly responsible individuals
 
@@ -55,7 +57,7 @@ I try to exercise Apple's [Directly Responsible Individual](https://medium.com/@
 
 ### Direct Communication
 
-Though I am not your (or anybody's) manager, I believe in [radical candor](https://www.amazon.com/dp/B01KTIEFEE/) and direct, frequent communication:
+I believe in [radical candor](https://www.amazon.com/dp/B01KTIEFEE/) and direct, frequent communication:
 
 - I value your time and attention, and will not ask for something of you unless I believe it to be important.
 - I respect that some topics will require conversation, while others can be managed asynchronously. To wit, I will do my best to be clear about my communication expectations on any given topic. My preferred communication methods, in descending order of preference:
@@ -87,6 +89,6 @@ Some characteristics of a good 1:1:
 - They are focused beyond now: how is your career going? What are your goals? How can I help?
 - They build our relationship beyond the status updates and roundtables that happen in greater team meetings.
 
-### Work and life
+### Your work/life balance
 
 I want you to have a healthy relationship with your job. Sometimes I work on evenings and weekends; I like the freedom and lack of structure that it allows, and frequently use them for focused work or reflection time. This is my choice. Do not take that as implied pressure to follow suit; if I ask a question outside of normal working hours, it can always wait until the next time you're ready to work.
