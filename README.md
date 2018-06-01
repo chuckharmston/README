@@ -7,8 +7,7 @@ Outside of work:
 - I have many nerdy pursuits, and help run a Magic: The Gathering hobby site.
 - I'm an avid outdoorsman and teach technical rock climbing and mountaineering classes for the [Colorado Mountain Club](https://www.cmc.org/),
 - I'm food and beverage enthusiast, and have a taco + cocktail blog with my partner.
-
-I spend an inordinate amount of time in coffee shops, fueling up on caffeine and soaking in the unique culture that they exude. I live for that terribly uncomfortable feeling in your gut when you're in a new place doing new things, either alone or surrounded by people not like you.
+- I spend an inordinate amount of time in coffee shops, fueling up on caffeine and soaking in the unique culture that they exude. 
 
 This document is intended to be an earnest guide to working with me. Writing it has helped me identify and refine my values and working style, and will hopefully also help us have a great relationship. I would like it to both set my expectations for you and provide a baseline for your expectations of me. It's a [living document](https://github.com/chuckharmston/README/blob/master/README.md) with a [public history](https://github.com/chuckharmston/README/commits/master/README.md), and I will periodically update it as necessary or requested.
 
