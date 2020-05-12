@@ -8,7 +8,7 @@ Outside of work:
 
 - I recently got engaged to an long-time friend, and am a future step-dad to a wonderful three-year-old girl.
 - I have numerous nerdy pursuits, and am product owner on a popular [Magic: The Gathering hobby site](https://scryfall.com/).
-- I cook, as both a love language and a hobby. I land right in the middle of the [Alice Waters](https://en.wikipedia.org/wiki/Alice_Waters) and [J. Kenji López-Alt](https://en.wikipedia.org/wiki/J._Kenji_L%C3%B3pez-Alt) spectrum.
+- I cook, as both a love language and a hobby. I land right in the middle of the [Edna Lewis](https://en.wikipedia.org/wiki/Edna_Lewis) and [J. Kenji López-Alt](https://en.wikipedia.org/wiki/J._Kenji_L%C3%B3pez-Alt) spectrum.
 - I'm an avid outdoorsman, and have taught technical rock climbing and mountaineering classes at the [Colorado Mountain Club](https://www.cmc.org/).
 
 This document is intended to be an earnest guide to working with me. Writing it has helped me identify and refine my values and working style, and will hopefully also help us have a great relationship. I would like it to both set my expectations for you and provide a baseline for your expectations of me. It's a [living document](https://github.com/chuckharmston/README/blob/master/README.md) with a [public history](https://github.com/chuckharmston/README/commits/master/README.md), and I will periodically update it as appropriate or requested.
